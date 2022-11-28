@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/FaDiiiLeo/rest-countries-main)
-- Live Site URL: [](https://fadiiileo.github.io/rest-countries-main/)
+- Solution URL: (https://github.com/FaDiiiLeo/rest-countries-main)
+- Live Site URL: (https://fadiiileo.github.io/rest-countries-main/)
 
 ## My process
 
