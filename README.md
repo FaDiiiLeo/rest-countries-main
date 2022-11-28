@@ -16,8 +16,6 @@ This is a solution to the [REST Countries API with color theme switcher challeng
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -29,11 +27,15 @@ Users should be able to:
 - Filter countries by region
 - Click on a country to see more detailed information on a separate page
 - Click through to the border countries on the detail page
-- Toggle the color scheme between light and dark mode *(optional)*
+- Toggle the color scheme between light and dark mode
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./solution-images/home-light-theme.jpg)
+![](./solution-images/home-dark-theme.jpg)
+![](./solution-images/country-light-theme.jpg)
+![](./solution-images/country-dark-theme.jpg)
+![](./solution-images/searched-country.jpg)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
